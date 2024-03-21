@@ -5,7 +5,7 @@
 # Mockup 
 
 # Locgic Flow 
-![LogicFlow]()
+![LogicFlow](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/Logic%20flow%20Chart.png)
 
 # Background 
 
