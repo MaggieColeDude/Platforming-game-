@@ -1,4 +1,4 @@
-# Platforming-game-
+# Finding Linsey Davis
 
 # The Git Hub 
 
