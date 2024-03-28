@@ -4,8 +4,10 @@
 # Rep link: 
 
 # Mockup 
-## Level One Part 2 
+## Level One
+![LevelOnePart1](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart1.jpg)
 ![LevelOnePart2](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart2.jpg)
+![LevelOnePart1](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart3.jpg)
 
 # Logic Flow 
 ![LogicFlow](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/Logic%20flow%20Chart.png)
