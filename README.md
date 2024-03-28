@@ -17,3 +17,6 @@
 # Background 
 
 # Charchters 
+
+# Helpful Links 
+## https://www.geeksforgeeks.org/pygame-tutorial/?ref=lbp
