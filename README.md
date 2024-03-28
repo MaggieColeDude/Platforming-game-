@@ -8,6 +8,7 @@
 ![LevelOnePart1](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart1.jpg)
 ![LevelOnePart2](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart2.jpg)
 ![LevelOnePart1](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart3.jpg)
+## There are three parts to each level, each should become harder as the player goes on. This first level is primarily a tutorial to show how the mechanics of the game work as well as establish a story. Gary is stuck at work when he gets a call to pick up the flowers he ordered for Linsey. He tries to leave the office but is pestered by nosey co-workers. If he gets near the coworkers he will take one heart of damage. Along the way, the player can pick up notes which explain their relationship. They can also pick up petals which add health. The player can also talk with a recurring NPC, a little girl with no name explaining how she lost a teddy bear and her dad is too busy to fix it. Later on, it's revealed the little girl is a ghost and we find the teddy bear at her grave. She will be a recurring character. I may make it so the little girl is Lindsey. I may have to take things out and shorten the levels depending on my skill level. 
 
 # Logic Flow 
 ![LogicFlow](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/Logic%20flow%20Chart.png)
