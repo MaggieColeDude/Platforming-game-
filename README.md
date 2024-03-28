@@ -5,7 +5,7 @@
 
 # Mockup 
 ## Level One Part 2 
-![LevelOnePart2]([https://github.com/MaggieColeDude/Platforming-game-/blob/main/LevelOnePart2.jpg](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/LevelOnePart2.jpg))
+![LevelOnePart2]([https://github.com/MaggieColeDude/Platforming-game-/blob/main/LevelOnePart2.jpg])
 
 # Logic Flow 
 ![LogicFlow](https://github.com/MaggieColeDude/Platforming-game-/blob/main/Images/Logic%20flow%20Chart.png)
